@@ -1,0 +1,30 @@
+Runtime Dependencies (dependencies)
+These are needed to run the app:
+
+@supabase/supabase-js – Supabase client for backend/database
+
+lucide-react – Icon library
+
+react – React core library
+
+react-dom – React DOM rendering
+
+react-router-dom – Routing for React apps
+
+Development Dependencies (devDependencies)
+Used for building, linting, and styling:
+
+@eslint/js – ESLint core
+
+eslint, eslint-plugin-react-hooks, eslint-plugin-react-refresh – Linting tools
+
+@vitejs/plugin-react – React support for Vite
+
+vite – Fast dev server and bundler
+
+tailwindcss, postcss, autoprefixer – Styling with Tailwind
+
+typescript, @types/react, @types/react-dom, typescript-eslint – TypeScript support
+
+globals – Shared global definitions
+
